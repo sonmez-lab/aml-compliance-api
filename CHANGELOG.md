@@ -8,3 +8,4 @@ All notable changes to this project.
 - [2025-02-28] Docs: API integration guidelines
 - [2025-02-28] Refactor: compliance validation logic
 - [2025-02-28] Refactor: compliance validation logic
+- [2025-03-01] Analysis: FATF travel rule implementation
