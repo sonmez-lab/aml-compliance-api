@@ -11,3 +11,4 @@ All notable changes to this project.
 - [2025-03-01] Analysis: FATF travel rule implementation
 - [2025-03-02] Update: KYC/KYT process documentation
 - [2025-03-03] Refactor: compliance validation logic
+- [2025-03-03] Analysis: FATF travel rule implementation
