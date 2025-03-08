@@ -19,3 +19,4 @@ All notable changes to this project.
 - [2025-03-06] Research: DeFi compliance requirements
 - [2025-03-06] Add: transaction risk scoring model
 - [2025-03-06] Docs: API integration guidelines
+- [2025-03-07] Research: blockchain compliance analysis
