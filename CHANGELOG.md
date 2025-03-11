@@ -28,3 +28,4 @@ All notable changes to this project.
 - [2025-03-10] Update: OFAC SDN list integration
 - [2025-03-11] Add: transaction risk scoring model
 - [2025-03-11] Update: AML risk assessment methodology
+- [2025-03-11] Docs: API integration guidelines
