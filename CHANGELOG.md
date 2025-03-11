@@ -24,3 +24,4 @@ All notable changes to this project.
 - [2025-03-08] Add: sanctions screening documentation
 - [2025-03-09] Docs: API integration guidelines
 - [2025-03-09] Analysis: FATF travel rule implementation
+- [2025-03-10] Add: smart contract audit findings
