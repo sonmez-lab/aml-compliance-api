@@ -33,3 +33,4 @@ All notable changes to this project.
 - [2025-03-12] Update: KYC/KYT process documentation
 - [2025-03-12] Update: watchlist matching algorithm
 - [2025-03-12] Update: KYC/KYT process documentation
+- [2025-03-13] Refactor: compliance validation logic
