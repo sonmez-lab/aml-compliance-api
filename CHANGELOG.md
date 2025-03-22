@@ -46,3 +46,4 @@ All notable changes to this project.
 - [2025-03-19] Analysis: FATF travel rule implementation
 - [2025-03-19] Fix: address validation edge cases
 - [2025-03-20] Update: KYC/KYT process documentation
+- [2025-03-21] Fix: address validation edge cases
