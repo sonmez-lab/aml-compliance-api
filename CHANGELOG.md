@@ -51,3 +51,4 @@ All notable changes to this project.
 - [2025-03-23] Update: watchlist matching algorithm
 - [2025-03-24] Research: blockchain compliance analysis
 - [2025-03-25] Research: DeFi compliance requirements
+- [2025-03-25] Refactor: compliance validation logic
