@@ -60,3 +60,4 @@ All notable changes to this project.
 - [2025-03-27] Docs: regulatory framework notes
 - [2025-03-27] Update: watchlist matching algorithm
 - [2025-03-27] Add: transaction risk scoring model
+- [2025-03-28] Add: smart contract audit findings
