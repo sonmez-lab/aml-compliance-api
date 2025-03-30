@@ -65,3 +65,4 @@ All notable changes to this project.
 - [2025-03-28] Update: watchlist matching algorithm
 - [2025-03-28] Update: watchlist matching algorithm
 - [2025-03-30] Add: sanctions screening documentation
+- [2025-03-30] Update: KYC/KYT process documentation
