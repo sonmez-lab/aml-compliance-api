@@ -73,3 +73,4 @@ All notable changes to this project.
 - [2025-04-02] Update: watchlist matching algorithm
 - [2025-04-04] Docs: regulatory framework notes
 - [2025-04-04] Research: DeFi compliance requirements
+- [2025-04-04] Add: sanctions screening documentation
