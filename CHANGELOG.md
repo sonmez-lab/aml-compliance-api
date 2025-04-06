@@ -75,3 +75,4 @@ All notable changes to this project.
 - [2025-04-04] Research: DeFi compliance requirements
 - [2025-04-04] Add: sanctions screening documentation
 - [2025-04-05] Research: cross-border transaction monitoring
+- [2025-04-05] Research: DeFi compliance requirements
