@@ -77,3 +77,4 @@ All notable changes to this project.
 - [2025-04-05] Research: cross-border transaction monitoring
 - [2025-04-05] Research: DeFi compliance requirements
 - [2025-04-07] Research: blockchain compliance analysis
+- [2025-04-07] Add: smart contract audit findings
