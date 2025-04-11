@@ -83,3 +83,4 @@ All notable changes to this project.
 - [2025-04-08] Add: transaction risk scoring model
 - [2025-04-08] Update: OFAC SDN list integration
 - [2025-04-08] Research: blockchain compliance analysis
+- [2025-04-10] Analysis: FATF travel rule implementation
