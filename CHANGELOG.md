@@ -87,3 +87,4 @@ All notable changes to this project.
 - [2025-04-11] Fix: address validation edge cases
 - [2025-04-11] Refactor: compliance validation logic
 - [2025-04-11] Add: smart contract audit findings
+- [2025-04-15] Add: transaction risk scoring model
