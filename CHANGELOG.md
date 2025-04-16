@@ -90,3 +90,4 @@ All notable changes to this project.
 - [2025-04-15] Add: transaction risk scoring model
 - [2025-04-15] Add: smart contract audit findings
 - [2025-04-15] Update: watchlist matching algorithm
+- [2025-04-15] Research: cross-border transaction monitoring
