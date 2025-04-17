@@ -91,3 +91,4 @@ All notable changes to this project.
 - [2025-04-15] Add: smart contract audit findings
 - [2025-04-15] Update: watchlist matching algorithm
 - [2025-04-15] Research: cross-border transaction monitoring
+- [2025-04-17] Docs: regulatory framework notes
