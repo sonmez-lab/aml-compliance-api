@@ -95,3 +95,4 @@ All notable changes to this project.
 - [2025-04-18] Fix: address validation edge cases
 - [2025-04-18] Analysis: FATF travel rule implementation
 - [2025-04-18] Docs: regulatory framework notes
+- [2025-04-18] Research: DeFi compliance requirements
