@@ -109,3 +109,4 @@ All notable changes to this project.
 - [2025-04-24] Research: blockchain compliance analysis
 - [2025-04-25] Update: watchlist matching algorithm
 - [2025-04-25] Update: watchlist matching algorithm
+- [2025-04-25] Research: cross-border transaction monitoring
