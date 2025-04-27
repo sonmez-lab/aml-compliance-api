@@ -112,3 +112,4 @@ All notable changes to this project.
 - [2025-04-25] Research: cross-border transaction monitoring
 - [2025-04-25] Research: cross-border transaction monitoring
 - [2025-04-26] Research: blockchain compliance analysis
+- [2025-04-26] Add: smart contract audit findings
