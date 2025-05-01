@@ -121,3 +121,4 @@ All notable changes to this project.
 - [2025-04-30] Update: OFAC SDN list integration
 - [2025-04-30] Research: DeFi compliance requirements
 - [2025-04-30] Update: KYC/KYT process documentation
+- [2025-05-01] Add: smart contract audit findings
