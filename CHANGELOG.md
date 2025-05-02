@@ -125,3 +125,4 @@ All notable changes to this project.
 - [2025-05-02] Update: AML risk assessment methodology
 - [2025-05-02] Fix: address validation edge cases
 - [2025-05-02] Research: blockchain compliance analysis
+- [2025-05-02] Docs: regulatory framework notes
