@@ -129,3 +129,4 @@ All notable changes to this project.
 - [2025-05-04] Docs: API integration guidelines
 - [2025-05-06] Update: AML risk assessment methodology
 - [2025-05-06] Research: cross-border transaction monitoring
+- [2025-05-06] Fix: address validation edge cases
