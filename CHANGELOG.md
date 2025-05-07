@@ -133,3 +133,4 @@ All notable changes to this project.
 - [2025-05-06] Update: watchlist matching algorithm
 - [2025-05-07] Analysis: FATF travel rule implementation
 - [2025-05-07] Update: watchlist matching algorithm
+- [2025-05-07] Docs: API integration guidelines
