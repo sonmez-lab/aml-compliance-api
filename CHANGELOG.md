@@ -131,3 +131,4 @@ All notable changes to this project.
 - [2025-05-06] Research: cross-border transaction monitoring
 - [2025-05-06] Fix: address validation edge cases
 - [2025-05-06] Update: watchlist matching algorithm
+- [2025-05-07] Analysis: FATF travel rule implementation
