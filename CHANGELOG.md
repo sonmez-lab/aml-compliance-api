@@ -136,3 +136,4 @@ All notable changes to this project.
 - [2025-05-07] Docs: API integration guidelines
 - [2025-05-07] Add: sanctions screening documentation
 - [2025-05-08] Update: OFAC SDN list integration
+- [2025-05-09] Research: blockchain compliance analysis
