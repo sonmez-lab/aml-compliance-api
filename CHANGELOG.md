@@ -147,3 +147,4 @@ All notable changes to this project.
 - [2025-05-13] Add: transaction risk scoring model
 - [2025-05-13] Update: watchlist matching algorithm
 - [2025-05-14] Update: KYC/KYT process documentation
+- [2025-05-15] Research: DeFi compliance requirements
