@@ -153,3 +153,4 @@ All notable changes to this project.
 - [2025-05-15] Research: cross-border transaction monitoring
 - [2025-05-16] Research: blockchain compliance analysis
 - [2025-05-16] Update: KYC/KYT process documentation
+- [2025-05-16] Docs: regulatory framework notes
