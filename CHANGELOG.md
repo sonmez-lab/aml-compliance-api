@@ -170,3 +170,4 @@ All notable changes to this project.
 - [2025-05-26] Refactor: compliance validation logic
 - [2025-05-26] Update: watchlist matching algorithm
 - [2025-05-26] Research: DeFi compliance requirements
+- [2025-05-27] Fix: address validation edge cases
