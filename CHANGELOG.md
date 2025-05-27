@@ -172,3 +172,4 @@ All notable changes to this project.
 - [2025-05-26] Research: DeFi compliance requirements
 - [2025-05-27] Fix: address validation edge cases
 - [2025-05-27] Add: smart contract audit findings
+- [2025-05-27] Analysis: FATF travel rule implementation
