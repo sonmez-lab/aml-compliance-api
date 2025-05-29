@@ -176,3 +176,4 @@ All notable changes to this project.
 - [2025-05-28] Update: AML risk assessment methodology
 - [2025-05-28] Add: smart contract audit findings
 - [2025-05-28] Add: transaction risk scoring model
+- [2025-05-29] Add: smart contract audit findings
