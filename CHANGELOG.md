@@ -178,3 +178,4 @@ All notable changes to this project.
 - [2025-05-28] Add: transaction risk scoring model
 - [2025-05-29] Add: smart contract audit findings
 - [2025-05-29] Research: cross-border transaction monitoring
+- [2025-05-29] Update: AML risk assessment methodology
