@@ -183,3 +183,4 @@ All notable changes to this project.
 - [2025-05-31] Add: transaction risk scoring model
 - [2025-05-31] Research: blockchain compliance analysis
 - [2025-06-01] Refactor: compliance validation logic
+- [2025-06-01] Update: AML risk assessment methodology
