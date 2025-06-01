@@ -180,3 +180,4 @@ All notable changes to this project.
 - [2025-05-29] Research: cross-border transaction monitoring
 - [2025-05-29] Update: AML risk assessment methodology
 - [2025-05-30] Refactor: compliance validation logic
+- [2025-05-31] Add: transaction risk scoring model
