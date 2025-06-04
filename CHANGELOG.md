@@ -190,3 +190,4 @@ All notable changes to this project.
 - [2025-06-03] Analysis: FATF travel rule implementation
 - [2025-06-03] Research: blockchain compliance analysis
 - [2025-06-03] Update: KYC/KYT process documentation
+- [2025-06-04] Update: AML risk assessment methodology
