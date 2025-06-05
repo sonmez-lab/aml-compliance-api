@@ -192,3 +192,4 @@ All notable changes to this project.
 - [2025-06-03] Update: KYC/KYT process documentation
 - [2025-06-04] Update: AML risk assessment methodology
 - [2025-06-04] Research: DeFi compliance requirements
+- [2025-06-04] Add: sanctions screening documentation
