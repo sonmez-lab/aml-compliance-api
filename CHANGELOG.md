@@ -196,3 +196,4 @@ All notable changes to this project.
 - [2025-06-05] Refactor: compliance validation logic
 - [2025-06-05] Update: watchlist matching algorithm
 - [2025-06-06] Update: OFAC SDN list integration
+- [2025-06-07] Docs: regulatory framework notes
