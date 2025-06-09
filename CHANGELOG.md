@@ -198,3 +198,4 @@ All notable changes to this project.
 - [2025-06-06] Update: OFAC SDN list integration
 - [2025-06-07] Docs: regulatory framework notes
 - [2025-06-08] Update: OFAC SDN list integration
+- [2025-06-08] Research: DeFi compliance requirements
