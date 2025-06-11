@@ -202,3 +202,4 @@ All notable changes to this project.
 - [2025-06-10] Update: AML risk assessment methodology
 - [2025-06-10] Research: DeFi compliance requirements
 - [2025-06-11] Research: blockchain compliance analysis
+- [2025-06-11] Add: transaction risk scoring model
