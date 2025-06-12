@@ -205,3 +205,4 @@ All notable changes to this project.
 - [2025-06-11] Add: transaction risk scoring model
 - [2025-06-11] Update: OFAC SDN list integration
 - [2025-06-11] Research: blockchain compliance analysis
+- [2025-06-12] Update: AML risk assessment methodology
