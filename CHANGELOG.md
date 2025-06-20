@@ -222,3 +222,4 @@ All notable changes to this project.
 - [2025-06-19] Docs: API integration guidelines
 - [2025-06-20] Fix: address validation edge cases
 - [2025-06-20] Add: smart contract audit findings
+- [2025-06-20] Update: OFAC SDN list integration
