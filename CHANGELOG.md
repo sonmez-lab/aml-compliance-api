@@ -241,3 +241,4 @@ All notable changes to this project.
 - [2025-07-01] Update: OFAC SDN list integration
 - [2025-07-02] Update: AML risk assessment methodology
 - [2025-07-02] Analysis: FATF travel rule implementation
+- [2025-07-02] Research: cross-border transaction monitoring
