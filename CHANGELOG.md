@@ -256,3 +256,4 @@ All notable changes to this project.
 - [2025-07-11] Research: cross-border transaction monitoring
 - [2025-07-13] Add: smart contract audit findings
 - [2025-07-13] Analysis: FATF travel rule implementation
+- [2025-07-14] Update: watchlist matching algorithm
