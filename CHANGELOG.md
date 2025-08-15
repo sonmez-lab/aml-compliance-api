@@ -307,3 +307,4 @@ All notable changes to this project.
 - [2025-08-12] Add: transaction risk scoring model
 - [2025-08-13] Docs: regulatory framework notes
 - [2025-08-15] Refactor: compliance validation logic
+- [2025-08-15] Update: OFAC SDN list integration
