@@ -311,3 +311,4 @@ All notable changes to this project.
 - [2025-08-15] Refactor: compliance validation logic
 - [2025-08-17] Update: KYC/KYT process documentation
 - [2025-08-18] Research: DeFi compliance requirements
+- [2025-08-18] Docs: regulatory framework notes
