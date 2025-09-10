@@ -348,3 +348,4 @@ All notable changes to this project.
 - [2025-09-06] Docs: API integration guidelines
 - [2025-09-07] Research: cross-border transaction monitoring
 - [2025-09-08] Add: smart contract audit findings
+- [2025-09-09] Docs: API integration guidelines
