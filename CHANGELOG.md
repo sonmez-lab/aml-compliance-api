@@ -355,3 +355,4 @@ All notable changes to this project.
 - [2025-09-10] Research: DeFi compliance requirements
 - [2025-09-11] Add: transaction risk scoring model
 - [2025-09-11] Analysis: FATF travel rule implementation
+- [2025-09-11] Update: OFAC SDN list integration
