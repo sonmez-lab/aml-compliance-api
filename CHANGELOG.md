@@ -366,3 +366,4 @@ All notable changes to this project.
 - [2025-09-17] Add: transaction risk scoring model
 - [2025-09-17] Fix: address validation edge cases
 - [2025-09-17] Research: blockchain compliance analysis
+- [2025-09-17] Update: watchlist matching algorithm
