@@ -363,3 +363,4 @@ All notable changes to this project.
 - [2025-09-16] Research: cross-border transaction monitoring
 - [2025-09-16] Update: KYC/KYT process documentation
 - [2025-09-16] Research: DeFi compliance requirements
+- [2025-09-17] Add: transaction risk scoring model
