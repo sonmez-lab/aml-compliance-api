@@ -371,3 +371,4 @@ All notable changes to this project.
 - [2025-09-18] Research: DeFi compliance requirements
 - [2025-09-19] Research: DeFi compliance requirements
 - [2025-09-19] Fix: address validation edge cases
+- [2025-09-19] Research: blockchain compliance analysis
