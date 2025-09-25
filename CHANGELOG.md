@@ -379,3 +379,4 @@ All notable changes to this project.
 - [2025-09-24] Docs: regulatory framework notes
 - [2025-09-24] Add: sanctions screening documentation
 - [2025-09-24] Docs: API integration guidelines
+- [2025-09-24] Research: blockchain compliance analysis
