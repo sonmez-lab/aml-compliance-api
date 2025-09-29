@@ -387,3 +387,4 @@ All notable changes to this project.
 - [2025-09-26] Refactor: compliance validation logic
 - [2025-09-26] Research: cross-border transaction monitoring
 - [2025-09-26] Update: watchlist matching algorithm
+- [2025-09-28] Research: blockchain compliance analysis
