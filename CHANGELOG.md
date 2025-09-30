@@ -390,3 +390,4 @@ All notable changes to this project.
 - [2025-09-28] Research: blockchain compliance analysis
 - [2025-09-28] Research: blockchain compliance analysis
 - [2025-09-30] Research: cross-border transaction monitoring
+- [2025-09-30] Analysis: FATF travel rule implementation
