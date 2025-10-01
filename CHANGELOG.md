@@ -394,3 +394,4 @@ All notable changes to this project.
 - [2025-10-01] Research: DeFi compliance requirements
 - [2025-10-01] Analysis: FATF travel rule implementation
 - [2025-10-01] Update: AML risk assessment methodology
+- [2025-10-01] Docs: regulatory framework notes
