@@ -396,3 +396,4 @@ All notable changes to this project.
 - [2025-10-01] Update: AML risk assessment methodology
 - [2025-10-01] Docs: regulatory framework notes
 - [2025-10-02] Research: cross-border transaction monitoring
+- [2025-10-02] Add: transaction risk scoring model
