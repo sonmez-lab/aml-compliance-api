@@ -401,3 +401,4 @@ All notable changes to this project.
 - [2025-10-05] Update: watchlist matching algorithm
 - [2025-10-05] Fix: address validation edge cases
 - [2025-10-06] Update: OFAC SDN list integration
+- [2025-10-06] Docs: API integration guidelines
