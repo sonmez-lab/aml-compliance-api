@@ -402,3 +402,4 @@ All notable changes to this project.
 - [2025-10-05] Fix: address validation edge cases
 - [2025-10-06] Update: OFAC SDN list integration
 - [2025-10-06] Docs: API integration guidelines
+- [2025-10-07] Refactor: compliance validation logic
