@@ -407,3 +407,4 @@ All notable changes to this project.
 - [2025-10-07] Update: KYC/KYT process documentation
 - [2025-10-08] Add: smart contract audit findings
 - [2025-10-09] Analysis: FATF travel rule implementation
+- [2025-10-10] Docs: API integration guidelines
