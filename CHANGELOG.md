@@ -420,3 +420,4 @@ All notable changes to this project.
 - [2025-10-15] Add: sanctions screening documentation
 - [2025-10-16] Research: DeFi compliance requirements
 - [2025-10-16] Add: transaction risk scoring model
+- [2025-10-16] Add: sanctions screening documentation
