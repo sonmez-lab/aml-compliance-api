@@ -418,3 +418,4 @@ All notable changes to this project.
 - [2025-10-14] Research: DeFi compliance requirements
 - [2025-10-15] Docs: API integration guidelines
 - [2025-10-15] Add: sanctions screening documentation
+- [2025-10-16] Research: DeFi compliance requirements
