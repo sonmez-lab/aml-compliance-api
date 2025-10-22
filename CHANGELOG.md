@@ -428,3 +428,4 @@ All notable changes to this project.
 - [2025-10-20] Research: cross-border transaction monitoring
 - [2025-10-20] Add: smart contract audit findings
 - [2025-10-20] Update: AML risk assessment methodology
+- [2025-10-22] Research: DeFi compliance requirements
