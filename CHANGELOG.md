@@ -443,3 +443,4 @@ All notable changes to this project.
 - [2025-10-28] Fix: address validation edge cases
 - [2025-10-29] Update: OFAC SDN list integration
 - [2025-10-30] Docs: regulatory framework notes
+- [2025-11-02] Add: smart contract audit findings
