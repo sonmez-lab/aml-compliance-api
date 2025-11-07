@@ -448,3 +448,4 @@ All notable changes to this project.
 - [2025-11-05] Fix: address validation edge cases
 - [2025-11-06] Fix: address validation edge cases
 - [2025-11-06] Docs: API integration guidelines
+- [2025-11-07] Update: AML risk assessment methodology
