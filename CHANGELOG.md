@@ -454,3 +454,4 @@ All notable changes to this project.
 - [2025-11-09] Update: watchlist matching algorithm
 - [2025-11-09] Add: smart contract audit findings
 - [2025-11-11] Research: DeFi compliance requirements
+- [2025-11-11] Update: watchlist matching algorithm
