@@ -458,3 +458,4 @@ All notable changes to this project.
 - [2025-11-11] Refactor: compliance validation logic
 - [2025-11-11] Fix: address validation edge cases
 - [2025-11-12] Update: AML risk assessment methodology
+- [2025-11-12] Update: watchlist matching algorithm
