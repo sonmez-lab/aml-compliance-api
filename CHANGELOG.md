@@ -481,3 +481,4 @@ All notable changes to this project.
 - [2025-11-20] Docs: regulatory framework notes
 - [2025-11-21] Add: transaction risk scoring model
 - [2025-11-21] Research: DeFi compliance requirements
+- [2025-11-21] Update: AML risk assessment methodology
