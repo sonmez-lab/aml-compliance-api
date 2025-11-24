@@ -485,3 +485,4 @@ All notable changes to this project.
 - [2025-11-22] Analysis: FATF travel rule implementation
 - [2025-11-23] Research: blockchain compliance analysis
 - [2025-11-23] Add: transaction risk scoring model
+- [2025-11-24] Research: cross-border transaction monitoring
