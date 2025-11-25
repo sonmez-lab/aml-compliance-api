@@ -487,3 +487,4 @@ All notable changes to this project.
 - [2025-11-23] Add: transaction risk scoring model
 - [2025-11-24] Research: cross-border transaction monitoring
 - [2025-11-24] Research: DeFi compliance requirements
+- [2025-11-25] Research: DeFi compliance requirements
