@@ -499,3 +499,4 @@ All notable changes to this project.
 - [2025-12-02] Update: watchlist matching algorithm
 - [2025-12-02] Research: blockchain compliance analysis
 - [2025-12-03] Research: DeFi compliance requirements
+- [2025-12-04] Docs: regulatory framework notes
