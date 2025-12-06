@@ -505,3 +505,4 @@ All notable changes to this project.
 - [2025-12-05] Analysis: FATF travel rule implementation
 - [2025-12-05] Refactor: compliance validation logic
 - [2025-12-05] Docs: regulatory framework notes
+- [2025-12-06] Refactor: compliance validation logic
