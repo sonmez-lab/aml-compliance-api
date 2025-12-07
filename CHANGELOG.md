@@ -507,3 +507,4 @@ All notable changes to this project.
 - [2025-12-05] Docs: regulatory framework notes
 - [2025-12-06] Refactor: compliance validation logic
 - [2025-12-07] Add: transaction risk scoring model
+- [2025-12-07] Research: blockchain compliance analysis
