@@ -508,3 +508,4 @@ All notable changes to this project.
 - [2025-12-06] Refactor: compliance validation logic
 - [2025-12-07] Add: transaction risk scoring model
 - [2025-12-07] Research: blockchain compliance analysis
+- [2025-12-08] Update: watchlist matching algorithm
