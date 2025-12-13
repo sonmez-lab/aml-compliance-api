@@ -513,3 +513,4 @@ All notable changes to this project.
 - [2025-12-10] Analysis: FATF travel rule implementation
 - [2025-12-11] Research: cross-border transaction monitoring
 - [2025-12-12] Docs: API integration guidelines
+- [2025-12-13] Update: AML risk assessment methodology
