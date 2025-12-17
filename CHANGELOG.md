@@ -516,3 +516,4 @@ All notable changes to this project.
 - [2025-12-13] Update: AML risk assessment methodology
 - [2025-12-14] Refactor: compliance validation logic
 - [2025-12-17] Update: KYC/KYT process documentation
+- [2025-12-17] Research: cross-border transaction monitoring
