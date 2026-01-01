@@ -535,3 +535,4 @@ All notable changes to this project.
 - [2025-12-30] Docs: API integration guidelines
 - [2025-12-31] Research: cross-border transaction monitoring
 - [2025-12-31] Docs: API integration guidelines
+- [2026-01-01] Add: transaction risk scoring model
