@@ -542,3 +542,4 @@ All notable changes to this project.
 - [2026-01-02] Update: AML risk assessment methodology
 - [2026-01-02] Add: transaction risk scoring model
 - [2026-01-02] Fix: address validation edge cases
+- [2026-01-03] Research: blockchain compliance analysis
