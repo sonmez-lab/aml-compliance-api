@@ -544,3 +544,4 @@ All notable changes to this project.
 - [2026-01-02] Fix: address validation edge cases
 - [2026-01-03] Research: blockchain compliance analysis
 - [2026-01-03] Add: transaction risk scoring model
+- [2026-01-05] Add: smart contract audit findings
