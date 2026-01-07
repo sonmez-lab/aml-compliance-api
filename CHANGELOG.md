@@ -548,3 +548,4 @@ All notable changes to this project.
 - [2026-01-05] Fix: address validation edge cases
 - [2026-01-05] Research: cross-border transaction monitoring
 - [2026-01-05] Add: transaction risk scoring model
+- [2026-01-06] Analysis: FATF travel rule implementation
