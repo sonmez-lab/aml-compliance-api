@@ -551,3 +551,4 @@ All notable changes to this project.
 - [2026-01-06] Analysis: FATF travel rule implementation
 - [2026-01-06] Add: sanctions screening documentation
 - [2026-01-06] Update: KYC/KYT process documentation
+- [2026-01-07] Fix: address validation edge cases
