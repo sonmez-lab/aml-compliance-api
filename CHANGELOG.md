@@ -557,3 +557,4 @@ All notable changes to this project.
 - [2026-01-08] Docs: API integration guidelines
 - [2026-01-09] Update: OFAC SDN list integration
 - [2026-01-09] Docs: regulatory framework notes
+- [2026-01-10] Update: OFAC SDN list integration
