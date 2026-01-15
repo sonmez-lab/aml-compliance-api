@@ -563,3 +563,4 @@ All notable changes to this project.
 - [2026-01-13] Update: watchlist matching algorithm
 - [2026-01-13] Research: DeFi compliance requirements
 - [2026-01-15] Update: OFAC SDN list integration
+- [2026-01-15] Update: KYC/KYT process documentation
