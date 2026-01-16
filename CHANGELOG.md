@@ -566,3 +566,4 @@ All notable changes to this project.
 - [2026-01-15] Update: KYC/KYT process documentation
 - [2026-01-16] Update: OFAC SDN list integration
 - [2026-01-16] Analysis: FATF travel rule implementation
+- [2026-01-16] Research: blockchain compliance analysis
