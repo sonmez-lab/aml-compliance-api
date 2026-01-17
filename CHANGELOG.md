@@ -568,3 +568,4 @@ All notable changes to this project.
 - [2026-01-16] Analysis: FATF travel rule implementation
 - [2026-01-16] Research: blockchain compliance analysis
 - [2026-01-16] Update: KYC/KYT process documentation
+- [2026-01-17] Docs: regulatory framework notes
