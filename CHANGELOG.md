@@ -573,3 +573,4 @@ All notable changes to this project.
 - [2026-01-19] Update: watchlist matching algorithm
 - [2026-01-19] Add: smart contract audit findings
 - [2026-01-19] Update: watchlist matching algorithm
+- [2026-01-20] Fix: address validation edge cases
