@@ -570,3 +570,4 @@ All notable changes to this project.
 - [2026-01-16] Update: KYC/KYT process documentation
 - [2026-01-17] Docs: regulatory framework notes
 - [2026-01-19] Update: AML risk assessment methodology
+- [2026-01-19] Update: watchlist matching algorithm
