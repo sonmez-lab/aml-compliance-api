@@ -578,3 +578,4 @@ All notable changes to this project.
 - [2026-01-21] Research: cross-border transaction monitoring
 - [2026-01-21] Refactor: compliance validation logic
 - [2026-01-21] Add: transaction risk scoring model
+- [2026-01-22] Add: transaction risk scoring model
