@@ -587,3 +587,4 @@ All notable changes to this project.
 - [2026-01-27] Research: cross-border transaction monitoring
 - [2026-01-28] Research: cross-border transaction monitoring
 - [2026-01-28] Docs: API integration guidelines
+- [2026-01-29] Add: sanctions screening documentation
