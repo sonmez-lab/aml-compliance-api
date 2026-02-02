@@ -592,3 +592,4 @@ All notable changes to this project.
 - [2026-01-30] Research: blockchain compliance analysis
 - [2026-01-30] Update: KYC/KYT process documentation
 - [2026-01-31] Add: sanctions screening documentation
+- [2026-02-02] Update: OFAC SDN list integration
