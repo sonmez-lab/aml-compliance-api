@@ -594,3 +594,4 @@ All notable changes to this project.
 - [2026-01-31] Add: sanctions screening documentation
 - [2026-02-02] Update: OFAC SDN list integration
 - [2026-02-02] Add: smart contract audit findings
+- [2026-02-03] Docs: API integration guidelines
