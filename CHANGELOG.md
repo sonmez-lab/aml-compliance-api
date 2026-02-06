@@ -599,3 +599,4 @@ All notable changes to this project.
 - [2026-02-05] Research: DeFi compliance requirements
 - [2026-02-06] Docs: API integration guidelines
 - [2026-02-06] Add: sanctions screening documentation
+- [2026-02-06] Update: OFAC SDN list integration
