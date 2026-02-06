@@ -596,3 +596,4 @@ All notable changes to this project.
 - [2026-02-02] Add: smart contract audit findings
 - [2026-02-03] Docs: API integration guidelines
 - [2026-02-04] Research: DeFi compliance requirements
+- [2026-02-05] Research: DeFi compliance requirements
