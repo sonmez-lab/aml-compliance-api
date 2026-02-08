@@ -601,3 +601,4 @@ All notable changes to this project.
 - [2026-02-06] Add: sanctions screening documentation
 - [2026-02-06] Update: OFAC SDN list integration
 - [2026-02-06] Research: DeFi compliance requirements
+- [2026-02-08] Update: watchlist matching algorithm
