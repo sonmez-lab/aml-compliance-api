@@ -604,3 +604,4 @@ All notable changes to this project.
 - [2026-02-08] Update: watchlist matching algorithm
 - [2026-02-08] Update: OFAC SDN list integration
 - [2026-02-10] Add: sanctions screening documentation
+- [2026-02-10] Update: OFAC SDN list integration
