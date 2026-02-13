@@ -608,3 +608,4 @@ All notable changes to this project.
 - [2026-02-10] Add: smart contract audit findings
 - [2026-02-11] Add: smart contract audit findings
 - [2026-02-12] Research: cross-border transaction monitoring
+- [2026-02-12] Add: smart contract audit findings
