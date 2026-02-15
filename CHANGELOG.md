@@ -615,3 +615,4 @@ All notable changes to this project.
 - [2026-02-13] Update: AML risk assessment methodology
 - [2026-02-13] Research: blockchain compliance analysis
 - [2026-02-13] Analysis: FATF travel rule implementation
+- [2026-02-14] Refactor: compliance validation logic
