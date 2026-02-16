@@ -619,3 +619,4 @@ All notable changes to this project.
 - [2026-02-16] Docs: API integration guidelines
 - [2026-02-16] Docs: regulatory framework notes
 - [2026-02-16] Research: cross-border transaction monitoring
+- [2026-02-16] Research: DeFi compliance requirements
