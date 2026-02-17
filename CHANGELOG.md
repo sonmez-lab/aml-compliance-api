@@ -616,3 +616,4 @@ All notable changes to this project.
 - [2026-02-13] Research: blockchain compliance analysis
 - [2026-02-13] Analysis: FATF travel rule implementation
 - [2026-02-14] Refactor: compliance validation logic
+- [2026-02-16] Docs: API integration guidelines
