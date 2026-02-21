@@ -625,3 +625,4 @@ All notable changes to this project.
 - [2026-02-18] Add: smart contract audit findings
 - [2026-02-20] Update: AML risk assessment methodology
 - [2026-02-20] Add: smart contract audit findings
+- [2026-02-20] Docs: API integration guidelines
