@@ -623,3 +623,4 @@ All notable changes to this project.
 - [2026-02-18] Fix: address validation edge cases
 - [2026-02-18] Update: OFAC SDN list integration
 - [2026-02-18] Add: smart contract audit findings
+- [2026-02-20] Update: AML risk assessment methodology
