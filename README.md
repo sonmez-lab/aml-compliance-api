@@ -1,5 +1,23 @@
 # AML Compliance API
 
+## 👤 Author
+
+**Osman Sonmez**
+
+Blockchain Security Researcher | Smart Contract Auditor | Attorney at Law
+
+Specializing in cryptocurrency compliance, blockchain law, smart contract security, and regulatory technology. Founder of Sonmez Partners Law Firm (Turkey) and Sonmez Consulting (USA).
+
+- 🌐 Website: [osmansonmez.com](https://osmansonmez.com)
+- 💼 LinkedIn: [linkedin.com/in/sonmezosman](https://www.linkedin.com/in/sonmezosman)
+- 🐙 GitHub: [github.com/sonmez-lab](https://github.com/sonmez-lab)
+
+**Focus Areas:** Blockchain Security | AML/CFT Compliance | Smart Contract Auditing | Cryptocurrency Law | OFAC Sanctions | DeFi Regulations | Token Classifications | Travel Rule | FATF Compliance
+
+---
+
+
+
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
@@ -63,19 +81,6 @@ GET  /v1/stats           - API usage statistics
 - JWT authentication
 - Docker deployment
 
-## 👤 Author
-
-**Osman Sönmez**
-
-Blockchain Security Researcher & Legal Tech Specialist | Smart Contract Auditor | Solidity Developer
-
-Bridging the gap between legal compliance and blockchain technology. Specializing in cryptocurrency AML/CFT frameworks, smart contract security audits, and regulatory technology solutions.
-
-- 🌐 Website: [osmansonmez.com](https://osmansonmez.com)
-- 💼 LinkedIn: [linkedin.com/in/sonmezosman](https://www.linkedin.com/in/sonmezosman)
-- 🔐 Focus: Blockchain Security | AML Compliance | Smart Contract Auditing
-
----
 
 ## 📄 License
 
