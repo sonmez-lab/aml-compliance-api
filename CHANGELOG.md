@@ -629,3 +629,4 @@ All notable changes to this project.
 - [2026-02-20] Analysis: FATF travel rule implementation
 - [2026-02-22] Analysis: FATF travel rule implementation
 - [2026-02-22] Research: cross-border transaction monitoring
+- [2026-02-23] Update: OFAC SDN list integration
