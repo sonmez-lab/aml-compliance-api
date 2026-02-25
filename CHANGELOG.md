@@ -634,3 +634,4 @@ All notable changes to this project.
 - [2026-02-23] Update: OFAC SDN list integration
 - [2026-02-24] Analysis: FATF travel rule implementation
 - [2026-02-25] Update: watchlist matching algorithm
+- [2026-02-25] Update: AML risk assessment methodology
