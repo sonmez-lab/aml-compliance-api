@@ -1,3 +1,8 @@
+![CI](https://github.com/sonmez-lab/aml-compliance-api/workflows/CI/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub stars](https://img.shields.io/github/stars/sonmez-lab/aml-compliance-api?style=social)
+![GitHub issues](https://img.shields.io/github/issues/sonmez-lab/aml-compliance-api)
+
 # AML Compliance API
 
 ## 👤 Author
